@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <settings>
   <servers>
-	<server>  
-		<id>anypoint-exchange-v3</id>
-		<username>~~~Client~~~</username>
-		<password>76f002fff9c041d78a663b0a26bc008f~?~a8055e977df843bCB9fFB5683E52A9BA</password>
-	</server>
+ <server>
+<id>anypoint-exchange-v3</id>
+<username>Sathwik_Nalla_01-10-2025</username>
+<password>Bl@ckB@ckB@t#2024</password>
+</server>
   </servers>
 
   <pluginGroups>
